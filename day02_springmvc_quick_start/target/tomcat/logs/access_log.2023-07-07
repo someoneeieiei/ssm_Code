@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:00:56:44 +0800] "GET / HTTP/1.1" 200 1369 http-bio-80-exec-1 389
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:00:56:44 +0800] "GET /js/code.jquery.com_jquery-3.7.0.js HTTP/1.1" 304 - http-bio-80-exec-3 15
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:00:56:46 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-80-exec-4 3
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:00:57:04 +0800] "POST /file/fileUpload2 HTTP/1.1" 500 8985 http-bio-80-exec-5 2216
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:01:01:34 +0800] "GET / HTTP/1.1" 200 1369 http-bio-80-exec-1 52
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:01:01:37 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-80-exec-3 10
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:01:01:46 +0800] "POST /file/fileUpload2 HTTP/1.1" 500 8985 http-bio-80-exec-4 2210
